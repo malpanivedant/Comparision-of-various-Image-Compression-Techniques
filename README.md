@@ -21,4 +21,5 @@ the whole image in a uniform manner which in many cases produces undesirable
 results.
 
 
-For detailed explaination check.
+For detailed explaination check:
+https://github.com/malpanivedant/Comparision-of-various-Image-Compression-Techniques.
